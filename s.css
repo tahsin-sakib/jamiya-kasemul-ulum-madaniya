@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+ body{
+ background:#34495e ;
+}
+.contain{
+    margin: 30px auto;
+    max-width: 450px;
+    padding: 20px
+}
+
+.secson{
+    background:#8c7ae6;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.secsn h1{
+    text-align: center;
+}
+.secson p{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.secson .btn{
+    display: block;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 30px;
+    background:#48dbfb ;
+    border-radius: 10px;
+
+}

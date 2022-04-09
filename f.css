@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2ecc71;
+    color: white;
+     line-height: 1.8;
+}
+.container{
+    margin: 30px auto;
+    max-width: 450px;
+    padding: 20px;
+}
+.from-wrap{
+    background:#95a5a6 ;
+    padding: 15px 25px;
+    border: 1px solid #3498db;
+    border-radius: 6px;
+    
+}
+.from-wrap h1{
+    text-align: center;
+}
+.from-wrap p{
+    text-align: center;
+}
+.from-wrap .froom-grup{
+    margin-top: 15px;
+
+}
+.from-wrap .froom-grup label{
+    display: block;
+    color:#fff ;
+}
+.from-wrap .froom-grup input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid rgb(247, 245, 245);
+    transition: .5s;
+
+
+}
+.from-wrap .froom-grup input:hover{
+  background: rgb(214, 206, 206);
+}
+
+.from-wrap .btn{
+    display: block;
+    width: 50%;
+    padding: 10px;
+    margin-top: 20px;
+    background:#48dbfb ;
+    border-radius: 10px;
+    
+}
